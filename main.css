@@ -1,0 +1,175 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	box-sizing: border-box;
+
+}
+
+h1 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 80px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 80px; 
+	position: absolute;
+	left: 50%;
+	top: 40%;
+	text-align: center;
+	color: #CDA4CD;
+	transform: translate(-50%, -50%);
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	background-color: #FFFFFF;
+	height: 100px;
+	width: 50vw;
+}
+
+li {
+	float: left;
+}
+
+img {
+	position: relative;
+	object-fit: cover;
+	height: 100vh;
+	width: 100vw;
+}
+
+.white-box {
+	background-color: white;
+    position: relative;
+	height: 100vh;
+	width: 100vw;
+}
+
+.contactdetails {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 20px; 
+	position: relative;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	color: #333333;
+}
+
+.imgMe {
+    float: center;
+	object-fit: contain;
+	height: 50vh;
+}
+
+.infobar {
+	background-color: white;
+	position: relative;
+	height: 100px;
+	width: 100vw;
+	padding-left: 100px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+
+.icon {
+	position: relative;
+	float: left;
+	width: 30px;
+	height: 27px;
+}
+
+.about {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 50px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 50px; 
+	position: relative;
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 50px;
+	color: #737373;
+}
+
+.content1{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 25px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 30px; 
+	position: relative;
+	text-align: left;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-bottom: 30px;
+	color: #737373;
+}
+
+.content2{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 25px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 30px; 
+	position: relative;
+	text-align: left;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-bottom: 50px;
+	color: #737373;
+}
+
+.project-box{
+	background-color: #CDA4CD;
+    position: relative;
+	height: 100vh;
+	width: 100vw;
+}
+
+.project-title{
+	font-family: "Courier New", monospace; font-size: 80px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 80px; 
+	position: relative;
+	top: 40%;
+	text-align: left;
+	color: #FFFFFF;
+	padding-left: 50px;
+	padding-right: 100px;
+}
+
+
+.project-sub{
+	font-family: "Courier New", monospace; font-size: 40px; font-style: normal; font-variant: normal; font-weight: 200; line-height: 40px; 
+	position: relative;
+	top: 40%;
+	text-align: left;
+	color: #FFFFFF;
+	padding-left: 50px;
+	padding-right: 100px;
+}
+
+
+.project-year{
+	font-family: "Courier New", monospace; font-size: 160px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 160px; 
+	position: relative;
+	top: 25%;
+	text-align: right;
+	color: #FFFFFF;
+	padding-right: 100px;
+}
+
+.project-withscroll{
+	background-color: #FFFFFF;
+	position: relative;
+	display: flex;
+	width: 100vw;
+	overflow: hidden;
+	flex-direction: row;
+	overflow-x: scroll;
+}
+
+.image1 {
+	width: 100vw;  
+	padding: 100px; 
+}
+
+.image2 {
+	object-fit: contain;
+	padding: 100px; 
+	width: 49vw;
+	height: 100vh;
+}
+
+
+
+
+
+
+
+
+
